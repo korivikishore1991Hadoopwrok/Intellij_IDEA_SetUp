@@ -25,7 +25,7 @@ src->main->new->Directory(create)->scala
 src/main/scala->Mark Directory as->Source Root
 
 Buliding Jar:-
-Artifacts->JAR->Build from Modules with dependencies->Select main Class
+Project Structure->Artifacts->JAR->Build from Modules with dependencies->Select main Class
 Build->Build Artifacts->Build
 
 Running:-
